@@ -1,3 +1,3 @@
 # portfolio
 my portfolio link http://csridhar.rf.gd/
-inspired and from greatstack youtube channel
+inspired and made from greatstack youtube channel
